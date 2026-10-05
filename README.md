@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Nicol%C3%A1s+Sierra+Bermúdez;Estudiante+de+T%C3%A9cnico+en+Software+%F0%9F%92%BB;Apasionado+por+la+programaci%C3%B3n+%F0%9F%9A%80;Futuro+gran+programador+de+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Amante+del+deporte+y+los+videojuegos+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-<img src="https://placehold.co/1200x600/e2e8f0/1e293b?text=Profile_visitor_count_badge_for_user_NicolasSierra" alt="Visitas"/>
+<img src="https://komarev.com/ghpvc/?username=NicolasSierraBermudez&style=for-the-badge&color=58A6FF&label=VISITAS" alt="Visitas"/>
 
 </div>
 
@@ -62,7 +62,7 @@ const nicolas = {
 
 <div align="center">
 
-[![GitHub Streak](https://opengraph.githubassets.com/0f8b609564ef6594a24ba0acc32a7c5e451fcc6cf245862a50a8ab2cbd93d77d/DenverCoder1/github-readme-streak-stats)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicolasSierraBermudez&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,7 +76,7 @@ const nicolas = {
 [![estimador-software](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=estimador-software&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/estimador-software)
 
 [![gestor-tareas-](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=gestor-tareas-&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/gestor-tareas-)
-[![simulador-de-gasto](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=simulador-de-gasto&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://placehold.co/1200x600/e2e8f0/1e293b?text=GitHub_repository_card_preview_image_generated_by_)
+[![simulador-de-gasto](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=simulador-de-gasto&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/simulador-de-gasto)
 
 [![historia-pagina](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=historia-pagina&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/historia-pagina)
 [![calculadoa-de-costos-aplicacion](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=calculadoa-de-costos-aplicacion&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/calculadoa-de-costos-aplicacion)
@@ -90,9 +90,9 @@ const nicolas = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/LlkcvvGbs9I/maxresdefault.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://placehold.co/1200x600/e2e8f0/1e293b?text=animated_snake_pattern_overlaid_on_a_GitHub_contri">
-  <img alt="snake animation" src="https://i.ytimg.com/vi/U_6HxPkrgcg/maxresdefault.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasSierraBermudez/Nicolas-Sierra-Bermudez/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasSierraBermudez/Nicolas-Sierra-Bermudez/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/NicolasSierraBermudez/Nicolas-Sierra-Bermudez/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -103,7 +103,7 @@ const nicolas = {
 
 <div align="center">
 
-[![Activity Graph](https://placehold.co/1200x600/e2e8f0/1e293b?text=GitHub_contribution_activity_graph_for_user_Nicola)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasSierraBermudez&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
