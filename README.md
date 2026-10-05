@@ -19,12 +19,15 @@
 ```javascript
 const nicolas = {
   nombre:     "Nicolás Sierra Bermúdez",
+  titulo:     "Desarrollador Junior en formación 🚀",
   ubicacion:  "Bogotá, Colombia 🇨🇴",
   formacion:  "Técnico en Software - CampusLands",
-  estado:     "Estudiando y aprendiendo cada día 📚",
+  estado:     "Estudiando y construyendo proyectos cada día 📚",
   objetivo:   "Convertirme en uno de los mejores programadores de Colombia 🏆",
+  idiomas:    ["Español (Nativo) 🇨🇴", "Inglés (B2) 🇺🇸"],
   hobbies:    ["Programación 💻", "Deporte ⚽", "Videojuegos 🎮"],
-  idiomas:    ["Español 🇨🇴", "Inglés 🇺🇸"],
+  competencias: ["Creatividad", "Proactividad", "Comunicación", 
+                 "Empatía", "Disciplina", "Adaptabilidad"],
   disponible: true, // ¡Abierto a colaborar en proyectos!
 };
 ```
@@ -41,9 +44,12 @@ const nicolas = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend & Otros
+### ⚙️ Backend & Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PSeInt](https://img.shields.io/badge/PSeInt-4B0082?style=for-the-badge&logo=algorithm&logoColor=white)
+
+### 🤖 Automatización & Workflows
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🔧 Herramientas
@@ -52,6 +58,17 @@ const nicolas = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 💼 Experiencia
+
+### 🌾 Proyecto Scrum - Campuslands
+**Desarrollador de Documentación Técnica**
+
+Participación en el desarrollo y estructuración de la documentación de un proyecto orientado a solucionar problemáticas en la cadena de valor agrícola, impactando a agricultores, comerciantes y transportadores.
+
+**Competencias aplicadas:** Trabajo en equipo, metodología SCRUM, documentación técnica, análisis de problemas reales.
 
 ---
 
@@ -130,6 +147,9 @@ const nicolas = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nicolassierrabermudez347@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasSierraBermudez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573107778669)
+
+### 📄 Descargar mi CV
+[![CV](https://img.shields.io/badge/Descargar_CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/NicolasSierraBermudez/Nicolas-Sierra-Bermudez/raw/main/assets/CV_Nicolas_Sierra_Bermudez.pdf)
 
 </div>
 
