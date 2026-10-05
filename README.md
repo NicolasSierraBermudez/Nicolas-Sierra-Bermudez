@@ -22,6 +22,7 @@ const nicolas = {
   titulo:     "Desarrollador Junior en formación 🚀",
   ubicacion:  "Bogotá, Colombia 🇨🇴",
   formacion:  "Técnico en Software - CampusLands",
+  website:    "https://tumarketstore.com.co 🌐",
   estado:     "Estudiando y construyendo proyectos cada día 📚",
   objetivo:   "Convertirme en uno de los mejores programadores de Colombia 🏆",
   idiomas:    ["Español (Nativo) 🇨🇴", "Inglés (B2) 🇺🇸"],
@@ -144,6 +145,7 @@ Participación en el desarrollo y estructuración de la documentación de un pro
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/🌐_Mi_Sitio_Web-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tumarketstore.com.co)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nicolassierrabermudez347@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasSierraBermudez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573107778669)
