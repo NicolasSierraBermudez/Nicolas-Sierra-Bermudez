@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nicolás%20Sierra%20Bermúdez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desarrollador%20Web%20%7C%20Técnico%20en%20Software%20%7C%20Colombia%20🇨🇴&descAlignY=55&descSize=18" width="100%"/>
 
+<div align="center">
+  <img src="assets/profile.jpeg" width="150" style="border-radius: 50%; margin: 10px;" alt="Nicolás Sierra Bermúdez"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Nicol%C3%A1s+Sierra+Bermúdez;Estudiante+de+T%C3%A9cnico+en+Software+%F0%9F%92%BB;Apasionado+por+la+programaci%C3%B3n+%F0%9F%9A%80;Futuro+gran+programador+de+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Amante+del+deporte+y+los+videojuegos+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=NicolasSierraBermudez&style=for-the-badge&color=58A6FF&label=VISITAS" alt="Visitas"/>
