@@ -76,7 +76,7 @@ const nicolas = {
 [![estimador-software](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=estimador-software&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/estimador-software)
 
 [![gestor-tareas-](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=gestor-tareas-&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/gestor-tareas-)
-[![simulador-de-gasto](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=simulador-de-gasto&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/simulador-de-gasto)
+[![viajes-guia](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=viajes-guia&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/viajes-guia)
 
 [![historia-pagina](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=historia-pagina&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/historia-pagina)
 [![calculadoa-de-costos-aplicacion](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSierraBermudez&repo=calculadoa-de-costos-aplicacion&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/NicolasSierraBermudez/calculadoa-de-costos-aplicacion)
